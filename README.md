@@ -150,13 +150,3 @@ This project is designed to be submitted by a 3-member team with clear ownership
   - AI planner page, panel, and AI plan-generation API route
   - Plan/AI libraries (`lib/plans`, `lib/ai`) and shared plan types
 
-### Member 3 commit timeline
-
-- 2026-03-28: plans pages
-- 2026-03-29: AI planner page route
-- 2026-03-30: plans API routes
-- 2026-03-31: AI plan API route
-- 2026-04-01: plans feature components
-- 2026-04-02: AI planner feature component
-- 2026-04-03: plan libraries and types
-- 2026-04-04: AI provider and schema libraries
